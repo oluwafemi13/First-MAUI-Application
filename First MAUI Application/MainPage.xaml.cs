@@ -1,6 +1,4 @@
-﻿using Kotlin.Jvm;
-
-namespace First_MAUI_Application;
+﻿namespace First_MAUI_Application;
 
 public partial class MainPage : ContentPage
 {
